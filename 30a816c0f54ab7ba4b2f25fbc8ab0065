@@ -1,0 +1,4 @@
+timestamp,equipment_id,energy_consumption,power_demand,cost_per_kwh,tariff_type,department
+2024-01-01 00:00:00,HVAC_01,125.5,200.3,0.12,peak,production
+2024-01-01 01:00:00,HVAC_01,118.2,195.1,0.08,off-peak,production
+2024-01-01 02:00:00,LINE_A_01,245.8,380.5,0.08,off-peak,manufacturing
